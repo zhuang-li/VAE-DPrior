@@ -1,0 +1,560 @@
+{
+    "P931": {
+        "id": "P931",
+        "label": "place served by transport hub",
+        "description": "territorial entity or entities served by this transport hub (airport, train station, etc.)",
+        "alt_label": "city served, serves city, train station serves",
+        "index": 0
+    },
+    "P4552": {
+        "id": "P4552",
+        "label": "mountain range",
+        "description": "range or subrange to which the geographical item belongs",
+        "alt_label": "range, mountain system, hill range, located in mountain range, located on mountain range, mountain belt, parent range, system of mountains",
+        "index": 1
+    },
+    "P140": {
+        "id": "P140",
+        "label": "religion",
+        "description": "religion of a person, organization or religious building, or associated with this subject",
+        "alt_label": "faith, denomination, life stance, religious affiliation",
+        "index": 2
+    },
+    "P1923": {
+        "id": "P1923",
+        "label": "participating team",
+        "description": "Like 'Participant' (P710) but for teams. For an event like a cycle race or a football match you can use this property to list the teams and P710 to list the individuals (with 'member of sports team' (P54) as a qualifier for the individuals)",
+        "alt_label": "teams",
+        "index": 3
+    },
+    "P150": {
+        "id": "P150",
+        "label": "contains administrative territorial entity",
+        "description": "(list of) direct subdivisions of an administrative territorial entity",
+        "alt_label": "contains, divided into, divides into, has administrative divisions, has arrondissements, has boroughs, has cities, has counties, has districts, has local government areas, has municipalities, has regions, has rural cities, has shires, has states, has towns, has villages, has wards, subdivided into, has members, has countries",
+        "index": 4
+    },
+    "P6": {
+        "id": "P6",
+        "label": "head of government",
+        "description": "head of the executive power of this town, city, municipality, state, country, or other governmental body",
+        "alt_label": "chancellor, mayor, prime minister, governor, premier, first minister, executive power headed by, government headed by, head of national government",
+        "index": 5
+    },
+    "P27": {
+        "id": "P27",
+        "label": "country of citizenship",
+        "description": "the object is a country that recognizes the subject as its citizen",
+        "alt_label": "nationality, citizenship, citizen of, national of, subject of (country)",
+        "index": 6
+    },
+    "P449": {
+        "id": "P449",
+        "label": "original broadcaster",
+        "description": "network(s) or service(s) that originally broadcasted a radio or television program",
+        "alt_label": "television channel, radio station, radio network, TV channel, broadcast on, channel, first air channel, network, original air channel, original channel, original network",
+        "index": 7
+    },
+    "P1435": {
+        "id": "P1435",
+        "label": "heritage designation",
+        "description": "heritage designation of a cultural or natural site",
+        "alt_label": "designation, protection, heritage status, heritage designation, legal protection, listed status, listing, protected status",
+        "index": 8
+    },
+    "P175": {
+        "id": "P175",
+        "label": "performer",
+        "description": "actor, musician, band or other performer associated with this role or musical work",
+        "alt_label": "actor, artist, musician, dancer, musical artist, played by, portrayed by, recorded by, recording by",
+        "index": 9
+    },
+    "P1344": {
+        "id": "P1344",
+        "label": "participant of",
+        "description": "event a person or an organization was/is a participant in, inverse of P710 or P1923",
+        "alt_label": "competed in, competes in, participant in, participant of event, participated in, present at, takes part, took part, took part in",
+        "index": 10
+    },
+    "P39": {
+        "id": "P39",
+        "label": "position held",
+        "description": "subject currently or formerly holds the object position or public office",
+        "alt_label": "holds position, office held, political office held, political seat, position occupied, public office",
+        "index": 11
+    },
+    "P527": {
+        "id": "P527",
+        "label": "has part",
+        "description": "part of this subject; inverse property of \"part of\" (P361). See also \"has parts of the class\" (P2670).",
+        "alt_label": "comprised of, contains, formed from, formed out of, ingredients, amalgamation of, assembled from, assembled out of, composed of, consists of, contain, created from, created out of, has as part, has component, has ingredient, has ingredients, have part, holonym of, includes, includes part, parts, set of, has member",
+        "index": 12
+    },
+    "P740": {
+        "id": "P740",
+        "label": "location of formation",
+        "description": "location where a group or organization was formed",
+        "alt_label": "comes from, formation location, formed in, founded in, from, originates from, place of formation, place of foundation, place of incorporation, source location of group/organisation",
+        "index": 13
+    },
+    "P706": {
+        "id": "P706",
+        "label": "located on terrain feature",
+        "description": "located on the specified landform. Should not be used when the value is only political/administrative (P131) or a mountain range (P4552).",
+        "alt_label": "geographical region, is on, terrain feature, on, is in, takes place in, loc (terr), location (terrain feature), on geographical feature, on natural feature",
+        "index": 14
+    },
+    "P84": {
+        "id": "P84",
+        "label": "architect",
+        "description": "person or architectural firm responsible for designing this building",
+        "alt_label": "architecture firm",
+        "index": 15
+    },
+    "P495": {
+        "id": "P495",
+        "label": "country of origin",
+        "description": "country of origin of this item (creative work, food, phrase, product, etc.)",
+        "alt_label": "comes from, CoO, origin (country), originates, place of origin",
+        "index": 16
+    },
+    "P123": {
+        "id": "P123",
+        "label": "publisher",
+        "description": "organization or person responsible for publishing books, periodicals, games or software",
+        "alt_label": "publishing house, video game publisher, board game publisher, book publisher, software publisher, published by",
+        "index": 17
+    },
+    "P57": {
+        "id": "P57",
+        "label": "director",
+        "description": "director(s) of film, TV-series, stageplay, video game or similar",
+        "alt_label": "film director, movie director, directed by",
+        "index": 18
+    },
+    "P22": {
+        "id": "P22",
+        "label": "father",
+        "description": "male parent of the subject. For stepfather, use \"stepparent\" (P3448)",
+        "alt_label": "child of, dad, daddy, daughter of, has father, is child of, is daughter of, is son of, parent, son of",
+        "index": 19
+    },
+    "P178": {
+        "id": "P178",
+        "label": "developer",
+        "description": "organisation or person that developed the item",
+        "alt_label": "developed by",
+        "index": 20
+    },
+    "P241": {
+        "id": "P241",
+        "label": "military branch",
+        "description": "branch to which this military unit, award, office, or person belongs, e.g. Royal Navy",
+        "alt_label": "formation, branch, service branch",
+        "index": 21
+    },
+    "P403": {
+        "id": "P403",
+        "label": "mouth of the watercourse",
+        "description": "the body of water to which the watercourse drains",
+        "alt_label": "outflow, drain, river mouth, confluences, outlet, tributary of, watercourse drain, watercourse ends in, watercourse outflow",
+        "index": 22
+    },
+    "P1411": {
+        "id": "P1411",
+        "label": "nominated for",
+        "description": "award nomination received by a person, organisation or creative work (inspired from \"award received\" (Property:P166))",
+        "alt_label": "nomination received, nominee for",
+        "index": 23
+    },
+    "P135": {
+        "id": "P135",
+        "label": "movement",
+        "description": "literary, artistic, scientific or philosophical movement associated with this person or work",
+        "alt_label": "school, trend",
+        "index": 24
+    },
+    "P991": {
+        "id": "P991",
+        "label": "successful candidate",
+        "description": "person(s) elected after the election",
+        "alt_label": "elected person, winner of election",
+        "index": 25
+    },
+    "P156": {
+        "id": "P156",
+        "label": "followed by",
+        "description": "immediately following item in a series of which the subject is a part [if the subject has been replaced, e.g. political offices, use \"replaced by\" (P1366)]",
+        "alt_label": "comes before, next is, precedes, preceeds, prequel of, sequel is, succeded by, successor",
+        "index": 26
+    },
+    "P176": {
+        "id": "P176",
+        "label": "manufacturer",
+        "description": "manufacturer or producer of this product",
+        "alt_label": "builder, made by, built by, mfr, maker, manufactured by, producer (of product), product of",
+        "index": 27
+    },
+    "P31": {
+        "id": "P31",
+        "label": "instance of",
+        "description": "that class of which this subject is a particular example and member (subject typically an individual member with a proper name label); different from P279; using this property as a qualifier is deprecated\u2014use P2868 or P3831 instead",
+        "alt_label": "member of, type, is a, distinct element of, distinct individual member of, distinct member of, has class, has type, is a particular, is a specific, is a unique, is an, is an example of, is an individual, non-type member of, not a type but is instance of, occurrence of, rdf:type, uninstantiable instance of, unique individual of, unitary element of class, unsubclassable example of, unsubclassifiable member of, unsubtypable particular",
+        "index": 28
+    },
+    "P1877": {
+        "id": "P1877",
+        "label": "after a work by",
+        "description": "artist whose work strongly inspired/ was copied in this item",
+        "alt_label": "artist who inspired this, copy of a work by, inspirational artist, inspiring artist",
+        "index": 29
+    },
+    "P102": {
+        "id": "P102",
+        "label": "member of political party",
+        "description": "the political party of which this politician is or has been a member",
+        "alt_label": "political party, party, member of, member of party, party membership",
+        "index": 30
+    },
+    "P1408": {
+        "id": "P1408",
+        "label": "licensed to broadcast to",
+        "description": "place that a radio/TV station is licensed/required to broadcast to",
+        "alt_label": "city of license, community of license",
+        "index": 31
+    },
+    "P159": {
+        "id": "P159",
+        "label": "headquarters location",
+        "description": "specific location where an organization's headquarters is or has been situated. Inverse property of \"occupant\" (P466).",
+        "alt_label": "seat, HQ, based in, garrison, headquarters, admin HQ, head office location, head quarters, HQ location, principle office",
+        "index": 32
+    },
+    "P3373": {
+        "id": "P3373",
+        "label": "sibling",
+        "description": "the subject has the object as their sibling (brother, sister, etc.). Use \"relative\" (P1038) for siblings-in-law (brother-in-law, sister-in-law, etc.) and step-siblings (step-brothers, step-sisters, etc.)",
+        "alt_label": "sister, brother, sib, bro, brother or sister, has brother, has sister, sis, sister or brother",
+        "index": 33
+    },
+    "P1303": {
+        "id": "P1303",
+        "label": "instrument",
+        "description": "musical instrument that a person plays",
+        "alt_label": "musical instrument, instrument played, plays, plays instrument",
+        "index": 34
+    },
+    "P17": {
+        "id": "P17",
+        "label": "country",
+        "description": "sovereign state of this item; don't use on humans",
+        "alt_label": "state, land, sovereign state, host country",
+        "index": 35
+    },
+    "P106": {
+        "id": "P106",
+        "label": "occupation",
+        "description": "occupation of a person; see also \"field of work\" (Property:P101), \"position held\" (Property:P39)",
+        "alt_label": "craft, work, profession, career, employment, job",
+        "index": 36
+    },
+    "P551": {
+        "id": "P551",
+        "label": "residence",
+        "description": "the place where the person is or has been, resident",
+        "alt_label": "lives in, home town, hometown, lived in, place of residence, resident in, resident of, resided in, resided at",
+        "index": 37
+    },
+    "P937": {
+        "id": "P937",
+        "label": "work location",
+        "description": "location where persons were active",
+        "alt_label": "location of work, place of work, work location, workplace, active in, place of activity, working at, work place",
+        "index": 38
+    },
+    "P355": {
+        "id": "P355",
+        "label": "subsidiary",
+        "description": "subsidiary of a company or organization, opposite of parent organization (P749)",
+        "alt_label": "parent company of, subsidiary company, subsidiary entities, owns, has subsidiary",
+        "index": 39
+    },
+    "P710": {
+        "id": "P710",
+        "label": "participant",
+        "description": "person, group of people or organization (object) that actively takes/took part in an event or process (subject).  Preferably qualify with \"object has role\" (P3831). Use P1923 for participants that are teams.",
+        "alt_label": "agent, accused, party, attendee, belligerents, between, candidate, competitor, event participant, participants, perpetrator, player, suspect, victim",
+        "index": 40
+    },
+    "P137": {
+        "id": "P137",
+        "label": "operator",
+        "description": "person, profession, or organization that operates the equipment, facility, or service; use country for diplomatic missions",
+        "alt_label": "administrator, user, facility operator, item operator, managed by, operated by, service operator",
+        "index": 41
+    },
+    "P674": {
+        "id": "P674",
+        "label": "characters",
+        "description": "characters which appear in this item (like plays, operas, operettas, books, comics, films, TV series, video games)",
+        "index": 42
+    },
+    "P466": {
+        "id": "P466",
+        "label": "occupant",
+        "description": "a person or organization occupying property",
+        "alt_label": "inhabitant, tenant, resident, lessee, renter, houses, location of",
+        "index": 43
+    },
+    "P136": {
+        "id": "P136",
+        "label": "genre",
+        "description": "creative work's genre or an artist's field of work (P101). Use main subject (P921) to relate creative works to their topic",
+        "alt_label": "music genre, literary genre, film genre, genre of music, type of music, artistic genre, kind of music, type of film",
+        "index": 44
+    },
+    "P306": {
+        "id": "P306",
+        "label": "operating system",
+        "description": "operating system (OS) on which a software works or the OS installed on hardware",
+        "alt_label": "OS",
+        "index": 45
+    },
+    "P127": {
+        "id": "P127",
+        "label": "owned by",
+        "description": "owner of the subject",
+        "alt_label": "owner, provenance, shareholder, stockholder, belongs to, is owned by, owners, shareholders, stockholders",
+        "index": 46
+    },
+    "P400": {
+        "id": "P400",
+        "label": "platform",
+        "description": "platform for which a work was developed or released, or the specific platform version of a software product",
+        "alt_label": "platforms, environment, hardware, computing platform, runtime, game platform, published on",
+        "index": 47
+    },
+    "P974": {
+        "id": "P974",
+        "label": "tributary",
+        "description": "stream or river that flows into a larger river or lake",
+        "alt_label": "affluent",
+        "index": 48
+    },
+    "P1346": {
+        "id": "P1346",
+        "label": "winner",
+        "description": "winner of an event - do not use for awards (use P166 instead), nor for wars or battles",
+        "alt_label": "leader, 1st place medalist, champ, champion, prizewinner, titleholder, top dog, victor, winners, won by, awardee",
+        "index": 49
+    },
+    "P460": {
+        "id": "P460",
+        "label": "said to be the same as",
+        "description": "this item is said to be the same as that item, but the statement is disputed",
+        "alt_label": "close to, disputed equivalence, equivalent of, equivalent to, is said to be the same as, is the same as, possibly equivalent to, possibly the same as, said to be different from, same, same as, see also, similar to, the same as, conspecific with",
+        "index": 50
+    },
+    "P86": {
+        "id": "P86",
+        "label": "composer",
+        "description": "person(s) who wrote the music [for lyricist, use \"lyrics by\" (P676)]",
+        "alt_label": "songwriter, composed by, music by, musical score by, written by",
+        "index": 51
+    },
+    "P118": {
+        "id": "P118",
+        "label": "league",
+        "description": "league in which team or player plays or has played in",
+        "alt_label": "sports league, division",
+        "index": 52
+    },
+    "P264": {
+        "id": "P264",
+        "label": "record label",
+        "description": "brand and trademark associated with the marketing of subject music recordings and music videos",
+        "alt_label": "label",
+        "index": 53
+    },
+    "P750": {
+        "id": "P750",
+        "label": "distributor",
+        "description": "distributor of a creative work; distributor for a record label",
+        "alt_label": "distributed by",
+        "index": 54
+    },
+    "P58": {
+        "id": "P58",
+        "label": "screenwriter",
+        "description": "person(s) who wrote the script for subject item",
+        "alt_label": "written by, scriptwriter, film script by, screenplay by, teleplay by, writer (of screenplays)",
+        "index": 55
+    },
+    "P3450": {
+        "id": "P3450",
+        "label": "sports season of league or competition",
+        "description": "property that shows the competition of which the item is a season. Use P5138 for \"season of club or team\".",
+        "alt_label": "sport season, is a season of, is season of, season of, season of sports competition, season of sports league, season of sports tournament, seasons of",
+        "index": 56
+    },
+    "P105": {
+        "id": "P105",
+        "label": "taxon rank",
+        "description": "level in a taxonomic hierarchy",
+        "alt_label": "taxonomic rank, rank, type of taxon",
+        "index": 57
+    },
+    "P276": {
+        "id": "P276",
+        "label": "location",
+        "description": "location of the item, physical object or event is within. In case of an administrative entity use P131. In case of a distinct terrain feature use P706.",
+        "alt_label": "neighborhood, venue, region, event location, based in, in, is in, located in, location of item, moveable object location, place held, located",
+        "index": 58
+    },
+    "P101": {
+        "id": "P101",
+        "label": "field of work",
+        "description": "specialization of a person or organization; see P106 for the occupation",
+        "alt_label": "academic discipline, subject, area, discipline, FOW, scientific discipline, domain, activity, field of study, academic area, academic subject, fields, responsible for, scientific area, specialism, studies, speciality, research on, conduct research about, be researcher in",
+        "index": 59
+    },
+    "P407": {
+        "id": "P407",
+        "label": "language of work or name",
+        "description": "language associated with this creative work (such as books, shows, songs, or websites) or a name (for persons use P103 and P1412)",
+        "alt_label": "audio language, available in, broadcasting language, language of name, language of the name, language of the reference, language of URL, language of website, language of work, named in language, used language, language of spoken text",
+        "index": 60
+    },
+    "P1001": {
+        "id": "P1001",
+        "label": "applies to jurisdiction",
+        "description": "the item (an institution, law, public office ...) or statement belongs to or has power over or applies to the value (a territorial jurisdiction: a country, state, municipality, ...)",
+        "alt_label": "jurisdiction, applied to jurisdiction, applies to territorial jurisdiction, belongs to jurisdiction, country of jurisdiction, linked to jurisdiction, of jurisdiction, valid in jurisdiction",
+        "index": 61
+    },
+    "P800": {
+        "id": "P800",
+        "label": "notable work",
+        "description": "notable scientific, artistic or literary work, or other work of significance among subject's works",
+        "alt_label": "work, artwork, bibliography, literary works, works, famous books, famous for, famous works, known for, major works, notable books, representative work, significance, significant works, creator of",
+        "index": 62
+    },
+    "P131": {
+        "id": "P131",
+        "label": "located in the administrative territorial entity",
+        "description": "the item is located on the territory of the following administrative entity. Use P276 (location) for specifying locations that are non-administrative places and for items about events",
+        "alt_label": "city, town, locality, administrative territorial entity, region, state, based in, happens in, in, in administrative unit, in the administrative unit, Indian reservation, is in administrative unit, is in the administrative region of, is in the administrative unit, is in the arrondissement of, is in the borough of, is in the city of, is in the commune of, is in the county of, is in the department of, is in the district of, is in the Indian reservation of, is in the Indian reserve of, is in the local government area of, is in the municipality of, is in the parish of, is in the prefecture of, is in the principal area of, is in the province of, is in the region of, is in the rural city of, is in the settlement of, is in the shire of, is in the state of, is in the territory of, is in the town of, is in the village of, is in the voivodeship of, is in the ward of, is located in, located in administrative unit, located in the administrative territorial entity, located in the administrative unit, located in the territorial entity, location (administrative territorial entity)",
+        "index": 63
+    },
+    "P177": {
+        "id": "P177",
+        "label": "crosses",
+        "description": "obstacle (body of water, road, ...) which this bridge crosses over or this tunnel goes under",
+        "alt_label": "spans, under, over, bridge over, spanning, through, tunnel under",
+        "index": 64
+    },
+    "P364": {
+        "id": "P364",
+        "label": "original language of film or TV show",
+        "description": "language in which a film or a performance work was originally created. Deprecated for written works; use P407 (\"language of work or name\") instead.",
+        "alt_label": "language, original language, created on language, language of the original work",
+        "index": 65
+    },
+    "P2094": {
+        "id": "P2094",
+        "label": "competition class",
+        "description": "official classification by a regulating body under which the subject (events, teams, participants, or equipment) qualifies for inclusion",
+        "alt_label": "weight class, class for competition, compclass, disability sport classifications, qualification class, qualifies for, rated at",
+        "index": 66
+    },
+    "P361": {
+        "id": "P361",
+        "label": "part of",
+        "description": "object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A). Inverse property of \"has part\" (P527, see also \"has parts of the class\" (P2670)).",
+        "alt_label": "in, assembly of, component of, contained within, is part of, merged into, merged with, meronym of, part of-property, section of, subassembly of, subsystem of, system of, within, band member of",
+        "index": 67
+    },
+    "P641": {
+        "id": "P641",
+        "label": "sport",
+        "description": "sport in which the subject participates or belongs to",
+        "alt_label": "play, sports, plays, sport played",
+        "index": 68
+    },
+    "P59": {
+        "id": "P59",
+        "label": "constellation",
+        "description": "the area of the celestial sphere of which the subject is a part (from a scientific standpoint, not an astrological one)",
+        "alt_label": "part of constellation",
+        "index": 69
+    },
+    "P413": {
+        "id": "P413",
+        "label": "position played on team / speciality",
+        "description": "position or specialism of a player on a team, e.g. Small Forward",
+        "alt_label": "specialism, fielding position, player position, position (on team), speciality",
+        "index": 70
+    },
+    "P206": {
+        "id": "P206",
+        "label": "located in or next to body of water",
+        "description": "sea, lake or river",
+        "alt_label": "bay, lake, sea, body of water, loc (water), located next to body of water, located on body of water, next to lake, ocean, on bay, on coast of, on harbour, on lake, on river, on shore of, on the coast of, on the shore of",
+        "index": 71
+    },
+    "P412": {
+        "id": "P412",
+        "label": "voice type",
+        "description": "person's voice type. expected values: soprano, mezzo-soprano, contralto, countertenor, tenor, baritone, bass (and derivatives)",
+        "alt_label": "register, range of voice, tessitura, type of voice, vocal type",
+        "index": 72
+    },
+    "P155": {
+        "id": "P155",
+        "label": "follows",
+        "description": "immediately prior item in a series of which the subject is a part [if the subject has replaced the preceding item, e.g. political offices, use \"replaces\" (P1365)]",
+        "alt_label": "preceded by, predecessor, succeeds, before was, comes after, prequel is, previous is, sequel of, split from, succeeds to, successor to",
+        "index": 73
+    },
+    "P26": {
+        "id": "P26",
+        "label": "spouse",
+        "description": "the subject has the object as their spouse (husband, wife, partner, etc.). Use \"partner\" (P451) for non-married companions",
+        "alt_label": "husband, partner, life partner, consort, husbands, marriage partner, married, married to, marry, partners, spouses, wed, wedded to, wife, wives",
+        "index": 74
+    },
+    "P410": {
+        "id": "P410",
+        "label": "military rank",
+        "description": "military rank achieved by a person (should usually have a \"start time\" qualifier), or military rank associated with a position",
+        "alt_label": "rank",
+        "index": 75
+    },
+    "P25": {
+        "id": "P25",
+        "label": "mother",
+        "description": "female parent of the subject. For stepmother, use \"stepparent\" (P3448)",
+        "alt_label": "mom, mum, child of, daughter of, is child of, is daughter of, is son of, parent, son of, mam, has mother",
+        "index": 76
+    },
+    "P463": {
+        "id": "P463",
+        "label": "member of",
+        "description": "organization or club to which the subject belongs. Do not use for membership in ethnic or social groups, nor for holding a position such as a member of parliament (use P39 for that).",
+        "index": 77
+    },
+    "P40": {
+        "id": "P40",
+        "label": "child",
+        "description": "subject has object as biological, foster, and/or adoptive child",
+        "alt_label": "son, kid, issue, children, daughter, daughters, has child, has children, has daughter, has daughters, has kid, has kids, has son, has sons, kids, offspring, parent of, sons, progeny",
+        "index": 78
+    },
+    "P921": {
+        "id": "P921",
+        "label": "main subject",
+        "description": "primary topic of a work (see also P180: depicts)",
+        "alt_label": "subject, artistic theme, topic, sitter, theme, keyword, about, main topic, index term, subject heading, describes, is about, main issue, main thing, mainly about, primary subject, primary topic, topic of work, mentions, refers to",
+        "index": 79
+    }
+}

@@ -1,0 +1,88 @@
+loading from PrefixTuning. ./explict_keyword_output
+loading the trained tokenizer
+50257 <|endoftext|> <|endoftext|> None
+50256
+<|endoftext|>
+None
+<|endoftext|> 50256
+50257 <|endoftext|> <|endoftext|> <|endoftext|>
+GPT2Config {
+  "_my_arg_control": true,
+  "_my_arg_task_mode": "webnlg",
+  "_my_arg_tune_mode": "prefixtune",
+  "activation_function": "gelu_new",
+  "architectures": [
+    "PrefixTuning"
+  ],
+  "attn_pdrop": 0.1,
+  "bos_token_id": 50256,
+  "embd_pdrop": 0.1,
+  "eos_token_id": 50256,
+  "format_mode": "cat",
+  "init_random": "no",
+  "initializer_range": 0.02,
+  "layer_norm_epsilon": 1e-05,
+  "lowdata": false,
+  "mid_dim": 512,
+  "model_type": "gpt2",
+  "n_ctx": 1024,
+  "n_embd": 1024,
+  "n_head": 16,
+  "n_inner": null,
+  "n_layer": 24,
+  "n_positions": 1024,
+  "n_special": 0,
+  "optim_prefix": true,
+  "predict_special_tokens": true,
+  "prefix_dropout": 0.0,
+  "preseqlen": 100,
+  "resid_pdrop": 0.1,
+  "summary_activation": null,
+  "summary_first_dropout": 0.1,
+  "summary_proj_to_labels": true,
+  "summary_type": "cls_index",
+  "summary_use_proj": true,
+  "task_specific_params": {
+    "text-generation": {
+      "do_sample": true,
+      "max_length": 50
+    }
+  },
+  "total_flos": 280427743902720,
+  "train_weights": "no",
+  "use_infix": false,
+  "vocab_size": 50258
+}
+
+under the PrefixTuning model
+mode_para=0, for data2text Instruction based, just optimize a set of parameters ;) 
+preseqlen is 100, under the mode of optimizing prefix directly
+UNDER PARAMETRIZATION 1
+torch.Size([100, 1024])
+torch.Size([512, 1792])
+torch.Size([512])
+torch.Size([49152, 512])
+torch.Size([49152])
+total param is 26235392
+relation_data/test.target 16 
+ relation_data/test.source 16
+should not happen
+should not happen
+should not happen
+should not happen
+should not happen
+should not happen
+should not happen
+should not happen
+should not happen
+should not happen
+should not happen
+should not happen
+./explict_keyword_predict/explict_keyword_output_test_nucleus
+torch.Size([1, 5])
+True False
+control code is  None
+prompt idx is  0
+label id is  0
+nucleus
+tensor([[ 6259,  2728,   286,  1918, 50256]], device='cuda:0')

@@ -1,0 +1,215 @@
+Intense
+Adventurous
+Mellow (Soothing, Sweet)
+Zany
+Narcissistic (Self-centered, Egotistical)
+Sarcastic
+Artificial
+Eloquent (Well-spoken, Expressive)
+Caring
+Appreciative (Grateful)
+Ordinary
+Honest
+Imaginative
+Daring
+Overimaginative
+Respectful
+Profound
+Arrogant
+Contemplative (Reflective, Thoughtful)
+Glamorous
+Angry
+Contemptible (Despicable, Vile)
+Old-fashioned
+Witty
+Casual
+Kind
+Fiery
+Spirited
+Intelligent
+Obnoxious
+Cute
+Pretentious (Snobbish, Showy)
+Aloof (Detached, Distant)
+Crazy
+High-spirited
+Questioning
+Morbid
+Confused
+Irrational
+Impersonal
+Vague
+Rigid
+Boyish
+Wishful
+Humble
+Realistic
+Tough
+Fickle (Changeable, Temperamental)
+Unrealistic
+Unimaginative
+Complex
+Foolish
+Frivolous (Trivial, Silly)
+Odd
+Objective (Detached, Impartial)
+Energetic
+Grim
+Creative
+Reflective
+Extreme
+Charming
+Discouraging
+Critical
+Quirky
+Hateful
+Scornful
+Blunt
+Peaceful
+Paranoid
+Calm
+Provocative
+Opinionated
+Haughty (Arrogant, Snobbish)
+Insightful
+Monstrous
+Relaxed
+Captivating
+Colorful (Full of Life, Interesting)
+Enigmatic (Cryptic, Obscure)
+Playful
+Wise
+Shy
+Sensual
+Sophisticated
+Anxious
+Formal
+Silly
+Boisterous (Rowdy, Loud)
+Cerebral (Intellectual, Logical)
+Extravagant
+Malicious
+Idealistic
+Conceited (Arrogant, Egotistical)
+Observant
+Devious
+Romantic
+Grand
+Bewildered (Astonished, Confused)
+Coarse (Not Fine, Crass)
+Fanciful
+Rational
+Spontaneous
+Obsessive
+Empathetic
+Fawning (Flattering, Deferential)
+Cultured (Refined, Educated)
+Absentminded
+Simple
+Cowardly
+Fun-loving
+Bizarre
+Optimistic
+Elegant
+Barbaric
+Confident
+Vivacious (Lively, Animated)
+Logical
+Dull
+Neurotic (Manic, Obsessive)
+Humorous
+Clever
+Sympathetic
+Meticulous (Precise, Thorough)
+Contradictory
+Freethinking
+Businesslike
+Abrasive (Annoying, Irritating)
+Warm
+Stiff
+Miserable
+Attractive
+Destructive
+Patriotic
+Perceptive
+Aggressive
+Maternal (Mother-like)
+Breezy (Relaxed, Informal)
+Sentimental
+Vacuous (Empty, Unintelligent)
+Passive
+Offhand
+Envious
+Happy
+Gloomy
+Curious
+Artful
+Ridiculous
+Melancholic
+Cynical (Doubtful, Skeptical)
+Escapist (Dreamer, Seeks Distraction)
+Cheerful
+Rowdy
+Dry
+Neutral
+Cruel
+Nihilistic
+Conservative (Traditional, Conventional)
+Lazy
+Uncreative
+Mystical
+Compassionate (Sympathetic, Warm)
+Solemn
+Gentle
+Courageous
+Whimsical (Playful, Fanciful)
+Apathetic (Uncaring, Disinterested)
+Egocentric (Self-centered)
+Articulate (Well-spoken, Expressive)
+Tense
+Youthful
+Serious
+Brilliant
+Stoic (Unemotional, Matter-of-fact)
+Stupid
+Considerate
+Fearful
+Outrageous
+Irritable
+Skeptical
+Resentful
+Excitable
+Erratic
+Passionate
+Pompous (Self-important, Arrogant)
+Fatalistic (Bleak, Gloomy)
+Knowledgeable
+Assertive
+Cold
+Dramatic
+Deep
+Money-minded
+Exciting
+Suave (Charming, Smooth)
+Sweet
+Sensitive
+Stylish
+Fanatical
+Childish
+Open
+Argumentative
+Frightening
+Hostile
+Rustic (Rural)
+Extraordinary
+Practical
+Enthusiastic
+Emotional
+Earnest (Enthusiastic)
+Scholarly
+Moody
+Bland
+Airy (Casual, Not Serious)
+Disturbing
+Amusing
+Dreamy

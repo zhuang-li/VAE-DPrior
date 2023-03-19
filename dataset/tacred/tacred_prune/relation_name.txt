@@ -1,0 +1,36 @@
+organization founded
+organization subsidiaries
+person date of birth
+person cause of death
+person age
+person countries of residence
+person state or provinces of residence
+organization website
+person cities of residence
+person parents
+person employee of
+person city of birth
+organization parents
+organization political religious affiliation
+person schools attended
+person children
+organization top members employees
+person date of death
+organization members
+organization alternate names
+person religion
+organization member of
+organization city of headquarters
+person origin
+organization shareholders
+person charges
+person title
+organization number of employees members
+organization country of headquarters
+person alternate names
+person siblings
+organization state or province of headquarters
+person spouse
+person other family
+person city of death
+organization founded by
